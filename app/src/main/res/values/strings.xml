@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamenU1</string>
+    <string name="gradosF">Fahrenheit</string>
+    <string name="gradosC">Celsius</string>
+    <string name="gradosK">Kelvin</string>
+    <string name="conv">Convertidor</string>
+</resources>
